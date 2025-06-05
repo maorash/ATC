@@ -124,6 +124,3 @@ results/
 To process the `_scores.jsonl` files, use the `analyze_scores.ipynb` notebook. This notebook contains examples on how to calculate AUROC and generate ROC plots.
 
 To demonstrate how scores are analyzed, we add a few score files generated in our MBPP experiments.
-
-## Acknowledgements to the Reviewers 🙏
-We would like to thank the reviewers for taking the time to read and evaluate our paper. Your feedback and insights are greatly appreciated.
