@@ -1,6 +1,9 @@
 # 🚀 Approximated Task Conditioning (ATC) 🚀
 This repository contains the implementation for Approximated Task Conditioning (ATC).
 
+## Paper Appendix 📎
+The paper's appendix is available [here](https://drive.google.com/file/d/1XDUNVv5m1RAehIJ8oT-NuTtVfflsGEXX/view).
+
 ## Setup 🛠️️
 - Python 3.8+ (we used Python 3.8.20)
 - Install the required packages using `pip`:
