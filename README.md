@@ -39,6 +39,8 @@ For the MBPP dataset, this is an example entry in the tasks `.jsonl` file:
 }
 ```
 
+> **Note:** In order to access the generated model responses used for evaluating ATC, please contact **maorash@post.bgu.ac.il** to request a share invite on HuggingFace.
+
 ## Running the Detection Methods 🏃‍
 The main script for running the detection methods is `detection/run.py`.
 You can configure the detection method and other parameters using command-line arguments.
